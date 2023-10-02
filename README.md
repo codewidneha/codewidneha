@@ -1,4 +1,4 @@
-<center><img height ="60%" src="img2.jpg" ></center>
+<img align ="center" src="collage.jpg" >
 <h1 align="center">Hi 👋, I'm Neha Kohli</h1>
 <h3 align="center">A passionate developer from India</h3>
 
