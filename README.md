@@ -1,4 +1,4 @@
-<img align ="center" src="collage.png" >
+<img align ="center" src="college.png" >
 <h1 align="center">Hi 👋, I'm Neha Kohli</h1>
 <h3 align="center">A passionate developer from India</h3>
 
