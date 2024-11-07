@@ -49,7 +49,7 @@
 <details>	
  <summary><b>My Monkeytype Streak 🐒</b></summary><br>
 <div align='center'>
-  <p><b>Current Streak:</b> 10 Days</p> <!-- Replace '10 Days' with your current streak -->
+  <p><b>Current Streak:</b> 50 Days</p> <!-- Replace '10 Days' with your current streak -->
   <a href="https://monkeytype.com/profile/coder_neha" target="_blank">
     <img src="https://monkeytype.com/assets/img/favicon.png" width="100px" height="100px" alt="Monkeytype Logo" />
   </a>
