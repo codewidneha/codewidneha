@@ -20,12 +20,42 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
 </div>
 </details>
 
 
+<details>	
+ <summary><b>My GeeksforGeeks Streak 🔥</b></summary><br>
+<div align='center'>
+  <p><b>Current Streak:</b> 200 Days (300+ Problem Solved, Coding Score 1K+, Contest Rating 1798)</p>
+  <a href="https://auth.geeksforgeeks.org/user/coder_nia24/practice" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="100px" height="100px" alt="GeeksforGeeks Logo" />
+  </a>
+  <p><i><a href="https://auth.geeksforgeeks.org/user/coder_nia24/practice" target="_blank">Check out my progress on GeeksforGeeks!</a></i></p>
+</div>
+</details>
+
+<details>	
+ <summary><b>My LeetCode Streak 🚀</b></summary><br>
+<div align='center'>
+  <p><b>Current Streak:</b> 100 Days</p> <!-- Replace '15 Days' with your current streak -->
+  <a href="https://leetcode.com/Coder_niaa/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="100px" height="100px" alt="LeetCode Logo" />
+  </a>
+  <p><i><a href="https://leetcode.com/Coder_niaa/" target="_blank">Check out my progress on LeetCode!</a></i></p>
+</div>
+</details>
+
+<details>	
+ <summary><b>My Monkeytype Streak 🐒</b></summary><br>
+<div align='center'>
+  <p><b>Current Streak:</b> 10 Days</p> <!-- Replace '10 Days' with your current streak -->
+  <a href="https://monkeytype.com/profile/coder_neha" target="_blank">
+    <img src="https://monkeytype.com/assets/img/favicon.png" width="100px" height="100px" alt="Monkeytype Logo" />
+  </a>
+  <p><i><a href="https://monkeytype.com/profile/coder_neha" target="_blank">Check out my progress on Monkeytype!</a></i></p>
+</div>
+</details>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewidneha&" alt="codewidneha" theme="dark"/></p>
 
