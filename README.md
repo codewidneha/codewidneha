@@ -50,7 +50,7 @@
   </div>
 </details>
 <div align="center">
-  <h2>⌨️ My Typing Streaks ⌨️</h2>
+  <h2> 💻  My Typing Streaks 💻 </h2>
 </div>
 
 <details>
