@@ -51,7 +51,7 @@
 <div align='center'>
   <p><b>Current Streak:</b> 100 Days</p> <!-- Replace '10 Days' with your current streak -->
   <a href="https://monkeytype.com/profile/coder_neha" target="_blank">
-    <img src="https://monkeytype.com/assets/img/favicon.png" width="100px" height="100px" alt="Monkeytype Logo" />
+   
   </a>
   <p><i><a href="https://monkeytype.com/profile/coder_neha" target="_blank">Check out my progress on Monkeytype!</a></i></p>
 </div>
