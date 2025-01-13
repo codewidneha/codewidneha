@@ -27,7 +27,7 @@
 <details>	
  <summary><b>My GeeksforGeeks Streak 🔥</b></summary><br>
 <div align='center'>
-  <p><b>Current Streak:</b> 200 Days (300+ Problem Solved, Coding Score 1K+, Contest Rating 1798)</p>
+  <p><b>Current Streak:</b> 365 Days (400+ Problem Solved, Coding Score 1K+, Contest Rating 1798)</p>
   <a href="https://auth.geeksforgeeks.org/user/coder_nia24/practice" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="100px" height="100px" alt="GeeksforGeeks Logo" />
   </a>
@@ -38,7 +38,7 @@
 <details>	
  <summary><b>My LeetCode Streak 🚀</b></summary><br>
 <div align='center'>
-  <p><b>Current Streak:</b> 100 Days</p> <!-- Replace '15 Days' with your current streak -->
+  <p><b>Current Streak:</b> 100+ Days</p> <!-- Replace '15 Days' with your current streak -->
   <a href="https://leetcode.com/Coder_niaa/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="100px" height="100px" alt="LeetCode Logo" />
   </a>
@@ -49,7 +49,7 @@
 <details>	
  <summary><b>My Monkeytype Streak 🐒</b></summary><br>
 <div align='center'>
-  <p><b>Current Streak:</b> 100 Days</p> <!-- Replace '10 Days' with your current streak -->
+  <p><b>Current Streak:</b> 100+ Days</p> <!-- Replace '10 Days' with your current streak -->
   <a href="https://monkeytype.com/profile/coder_neha" target="_blank">
    
   </a>
