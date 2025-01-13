@@ -53,9 +53,10 @@
 <details>
   <summary><b>🐒 Monkeytype Streak</b></summary><br>
   <div align="center">
+    <h3>💻 My Typing Streak on Monkeytype</h3>
     <p><b>Current Streak:</b> 100+ Days 🖋️</p>
     <a href="https://monkeytype.com/profile/coder_neha" target="_blank">
-      <img src="https://monkeytype.com/assets/favicons/favicon-32x32.png" width="120px" height="120px" alt="Monkeytype Logo" />
+      <img src="https://www.google.com/search?q=keyboard+image&tbm=isch&hl=en&sa=X&ved=0ahUKEwi1zaCllr3-AAU4T2AKHdoWA1cQ_AUIBigB&biw=1366&bih=657#imgrc=GMlm9wOgfqfhGM" width="120px" height="120px" alt="Keyboard Image" />
     </a>
     <p><i><a href="https://monkeytype.com/profile/coder_neha" target="_blank">View My Typing Progress on Monkeytype!</a></i></p>
   </div>
