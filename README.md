@@ -60,7 +60,7 @@
 <details>
   <summary><b>🐒 Monkeytype Streak</b></summary><br>
   <div align="center">
-    <h3>💻 My Typing Streak on Monkeytype</h3>
+    <h3> My Typing Streak on Monkeytype</h3>
     <p><b>Current Streak:</b> 100+ Days 🖋️</p>
     <a href="https://monkeytype.com/profile/coder_neha" target="_blank">
       <img src="https://img.freepik.com/premium-photo/closeup-programmer-s-hands-dancing-keyboard-typing-lines-code_997602-146.jpg" width="120px" height="120px" alt="Keyboard Image" />
