@@ -49,6 +49,9 @@
     <p><i><a href="https://leetcode.com/Coder_niaa/" target="_blank">Follow My Journey on LeetCode!</a></i></p>
   </div>
 </details>
+<div align="center">
+  <h2>🖱️⌨️ My Typing Streaks ⌨️🖱️</h2>
+</div>
 
 <details>
   <summary><b>🐒 Monkeytype Streak</b></summary><br>
