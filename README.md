@@ -1,3 +1,4 @@
+<img align="center" src="college.png" >
 # Hi there! 👋 I'm Neha
 
 <div align="center">
@@ -68,16 +69,25 @@
 
 ---
 
-## 🏅 GSSOC'24 Badges
+
+ <summary><b>🥇 GSSOC(24) Badges Collection 🌟</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+  <a href="https://gssoc.girlscript.tech/leaderboard">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+  </a>
+</div>
+</details>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/5.png" width="100px" height="100px" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
+
 
 ---
 
@@ -114,16 +124,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codewidneha&repo=your-best-project&theme=radical&hide_border=true)](https://github.com/codewidneha/your-best-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codewidneha&repo=another-project&theme=radical&hide_border=true)](https://github.com/codewidneha/another-project)
-
-</div>
-
----
 
 ## 🤝 Let's Connect!
 
