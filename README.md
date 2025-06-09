@@ -60,11 +60,11 @@
   
 ### 🔥 Current Streaks
 ![GeeksforGeeks](https://img.shields.io/badge/GFG_Streak-365_Days-00C851?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode_Streak-100+_Days-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![LeetCode](https://img.shields.io/badge/LeetCode_Streak-365+_Days-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
 ### 🏆 Achievements
 ![GFG Problems](https://img.shields.io/badge/GFG_Problems-400+-00C851?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
-![GFG Score](https://img.shields.io/badge/GFG_Score-1000+-00C851?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+![GFG Score](https://img.shields.io/badge/GFG_Score-1500+-00C851?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 ![Contest Rating](https://img.shields.io/badge/Contest_Rating-1798-FF6B6B?style=for-the-badge)
 
 </div>
