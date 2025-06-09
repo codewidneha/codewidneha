@@ -14,11 +14,15 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 🌐 Connect with me:
+## 🌐 Let's Connect & Build Amazing Things Together!
 
 <div align="center">
+  <p>
+    <em>"The best way to learn is to teach, and the best way to grow is to connect!"</em> 💫
+  </p>
+  
   <a href="https://www.linkedin.com/in/neha-kohli-9084091b9/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animated=true" alt="LinkedIn"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/coder_nia24/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
@@ -26,78 +30,244 @@
   <a href="https://leetcode.com/u/kohlineha352/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
+  
+  <br><br>
+  <p><em>🚀 Always excited to collaborate on innovative projects and share knowledge!</em></p>
+  <p><em>💡 Open for discussions about AI, Full-Stack Development, and everything tech!</em></p>
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 🛠️ Languages and Tools:
+## 🛠️ My Tech Arsenal & Passion Points
 
-### 💻 Programming Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,cpp" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&center=true&vCenter=true&width=600&height=50&duration=3000&lines=Crafting+Digital+Dreams+into+Reality!+✨;Every+Bug+is+a+New+Adventure!+🐛➡️🦋;Code+%2B+Coffee+%3D+Magic!+☕💻" />
 </div>
 
-### 🎨 Design & UI/UX
+### 🎨 Frontend Magic ✨
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+        <br><strong>HTML5</strong>
+        <br><em>🏗️ Building blocks</em>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+        <br><strong>CSS3</strong>
+        <br><em>🎨 Style wizard</em>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+        <br><strong>JavaScript</strong>
+        <br><em>⚡ Interactive soul</em>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+        <br><strong>React</strong>
+        <br><em>🔄 Component lover</em>
+      </td>
+    </tr>
+  </table>
 </div>
 
-### 📱 Mobile Development
+### 🚀 Backend Powerhouse 💪
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,android" />
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+        <br><strong>Node.js</strong>
+        <br><em>🌟 Runtime hero</em>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+        <br><strong>Flask</strong>
+        <br><em>🐍 Python web</em>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+        <br><strong>Django</strong>
+        <br><em>🎯 Rapid dev</em>
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/REST_API-02569B?style=flat&logo=rest&logoColor=white" width="60" height="20" alt="REST API" />
+        <br><strong>REST API</strong>
+        <br><em>🔗 Connection master</em>
+      </td>
+    </tr>
+  </table>
 </div>
 
-### 🌐 Web Development
+### 📱 Mobile Universe 🌍
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,flask,django" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white" alt="REST API"/>
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+        <br><strong>Flutter</strong>
+        <br><em>🦋 Cross-platform</em>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+        <br><strong>Dart</strong>
+        <br><em>🎯 Flutter's friend</em>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=android" width="48" height="48" alt="Android" />
+        <br><strong>Android</strong>
+        <br><em>🤖 Native apps</em>
+      </td>
+    </tr>
+  </table>
 </div>
 
-### 🗄️ Databases
+### 💾 Programming Languages 🧠
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,oracle" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MS SQL Server"/>
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+        <br><strong>Java</strong>
+        <br><em>☕ OOP champion</em>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        <br><strong>Python</strong>
+        <br><em>🐍 AI companion</em>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+        <br><strong>C++</strong>
+        <br><em>⚡ Speed demon</em>
+      </td>
+    </tr>
+  </table>
 </div>
 
-### ☁️ Cloud & DevOps
+### 🧠 AI/ML & LLM Playground 🤖
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git" />
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+        <br><strong>TensorFlow</strong>
+        <br><em>🧠 Neural networks</em>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+        <br><strong>PyTorch</strong>
+        <br><em>🔥 Deep learning</em>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+        <br><strong>OpenCV</strong>
+        <br><em>👁️ Computer vision</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/LLM-8A2BE2?style=flat&logo=openai&logoColor=white" width="40" height="20" alt="LLM" />
+        <br><strong>LLM</strong>
+        <br><em>🗣️ Language models</em>
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/RAG-00D4AA?style=flat&logo=retrieval&logoColor=white" width="40" height="20" alt="RAG" />
+        <br><strong>RAG</strong>
+        <br><em>🔍 Smart retrieval</em>
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/Chatbot-25D366?style=flat&logo=whatsapp&logoColor=white" width="55" height="20" alt="Chatbot" />
+        <br><strong>Chatbots</strong>
+        <br><em>💬 Conversation AI</em>
+      </td>
+    </tr>
+  </table>
 </div>
 
-### 🤖 AI/ML & Data Science
+### 🎨 Design & Creative Tools ✨
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
-  <img src="https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
-  <img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="NLP"/>
-  <img src="https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="CNN"/>
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+        <br><strong>Figma</strong>
+        <br><em>🎨 Design dreams</em>
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" width="50" height="20" alt="Canva" />
+        <br><strong>Canva</strong>
+        <br><em>✨ Quick graphics</em>
+      </td>
+    </tr>
+  </table>
 </div>
 
-### 🧠 LLM & Advanced AI
+### 🗄️ Database & Cloud ☁️
 <div align="center">
-  <img src="https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Large Language Models"/>
-  <img src="https://img.shields.io/badge/RAG-00D4AA?style=for-the-badge&logo=retrieval&logoColor=white" alt="Retrieval Augmented Generation"/>
-  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/Chatbot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chatbot Development"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+        <br><strong>MySQL</strong>
+        <br><em>🐬 Data storage</em>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+        <br><strong>AWS</strong>
+        <br><em>☁️ Cloud magic</em>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+        <br><strong>Docker</strong>
+        <br><em>📦 Containerization</em>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <br><strong>Git</strong>
+        <br><em>🌿 Version control</em>
+      </td>
+    </tr>
+  </table>
 </div>
 
-### 📊 Data Science & Analytics
 <div align="center">
-  <img src="https://img.shields.io/badge/Data_Science-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Data Science"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-### 🎯 Core Computer Science
+## 🎮 Fun Developer Game: Guess My Coding Style!
+
 <div align="center">
-  <img src="https://img.shields.io/badge/DSA-FF5722?style=for-the-badge&logo=algorithm&logoColor=white" alt="DSA"/>
-  <img src="https://img.shields.io/badge/OOP-2196F3?style=for-the-badge&logo=object&logoColor=white" alt="OOP"/>
-  <img src="https://img.shields.io/badge/Operating_Systems-FFA000?style=for-the-badge&logo=linux&logoColor=white" alt="OS"/>
-  <img src="https://img.shields.io/badge/Computer_Networks-00BCD4?style=for-the-badge&logo=cisco&logoColor=white" alt="CN"/>
-  <img src="https://img.shields.io/badge/Problem_Solving-E91E63?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problem Solving"/>
+  <table>
+    <tr>
+      <td align="center">
+        <h3>🌟 Click to Reveal My Coding Personality! 🌟</h3>
+        <details>
+          <summary><b>🎯 What's my debugging superpower?</b></summary>
+          <br>
+          <p><em>🔍 I turn bugs into features and features into magic! ✨</em></p>
+          <p><strong>My secret:</strong> Coffee + Patience + Stack Overflow = Bug-free code! ☕🐛➡️🦋</p>
+        </details>
+        
+        <details>
+          <summary><b>💭 What's my favorite coding time?</b></summary>
+          <br>
+          <p><em>🌙 2 AM when the world sleeps, but my code comes alive! 🌟</em></p>
+          <p><strong>Why?</strong> No meetings, no distractions, just me and my IDE having deep conversations! 💻💬</p>
+        </details>
+        
+        <details>
+          <summary><b>🚀 What motivates me most?</b></summary>
+          <br>
+          <p><em>🌈 Building solutions that make people's lives easier and more colorful! 🎨</em></p>
+          <p><strong>Dream:</strong> Creating AI that helps solve real-world problems with a touch of creativity! 🤖❤️</p>
+        </details>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
@@ -107,17 +277,13 @@
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-    🏆 My GSSOC('24) Badges 🏆
+    🏆 My GSSOC('24) Achievement Gallery 🏆
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
   </h2>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
 <details>	
- <summary><b>🥇 GSSOC(24) Badges 🏆</b></summary><br>
+ <summary><b>🥇 GSSOC(24) Badges Collection 🌟</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
   <a href="https://gssoc.girlscript.tech/leaderboard">
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -135,123 +301,150 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
+## 🔥 My Coding Journey & Streaks
+
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
-    🔥 My Coding Streaks 🔥
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
-  </h2>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&center=true&vCenter=true&width=500&height=50&duration=3000&lines=Consistency+is+my+superpower!+💪;365+days+and+counting...+🔥;Every+problem+is+a+new+adventure!+🚀" />
 </div>
 
+### 🌟 GeeksforGeeks Journey 🏆
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=YourGitHubUsername&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-</div>
-
-### 🌟 Platform Streaks
-
-<details>
-  <summary><b>🌟 GeeksforGeeks Streak 🏆</b></summary><br>
-  <div align="center">
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50">
-    <h3>🎯 GeeksforGeeks Journey</h3>
-    <p><b>Current Streak:</b> 365 Days 🔥</p>
-    <p><b>Achievements:</b> 400+ Problems Solved | Coding Score 1K+ | Contest Rating 1798 🏆</p>
-    <a href="https://auth.geeksforgeeks.org/user/coder_nia24/practice" target="_blank">
-      <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile"/>
-    </a>
-    <p><i><a href="https://auth.geeksforgeeks.org/user/coder_nia24/practice" target="_blank">🚀 Explore My Progress on GeeksforGeeks!</a></i></p>
-  </div>
-</details>
-
-<details>
-  <summary><b>🚀 LeetCode Streak 💪</b></summary><br>
-  <div align="center">
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-    <h3>⚡ LeetCode Journey</h3>
-    <p><b>Current Streak:</b> 100+ Days 🎉</p>
-    <a href="https://leetcode.com/u/kohlineha352/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
-    </a>
-    <p><i><a href="https://leetcode.com/u/kohlineha352/" target="_blank">🏃‍♀️ Follow My Journey on LeetCode!</a></i></p>
-  </div>
-</details>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-    💻 My Typing Streaks 💻
-    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-  </h2>
-</div>
-
-<details>
-  <summary><b>🐒 Monkeytype Streak ⌨️</b></summary><br>
-  <div align="center">
-    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50">
-    <h3>⌨️ My Typing Journey on Monkeytype</h3>
-    <p><b>Current Streak:</b> 100+ Days 🖋️</p>
-    <a href="https://monkeytype.com/profile/coder_neha" target="_blank">
-      <img src="https://img.shields.io/badge/Monkeytype-E2B714?style=for-the-badge&logo=monkeytype&logoColor=black" alt="Monkeytype Profile"/>
-    </a>
-    <p><i><a href="https://monkeytype.com/profile/coder_neha" target="_blank">⚡ View My Typing Progress on Monkeytype!</a></i></p>
-  </div>
-</details>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## 🔧 Productivity Extensions & Tools
-
-<div align="center">
-  <h3>🤖 Automated Streak Extensions</h3>
-  <p>Keep my coding streaks alive with these helpful tools:</p>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80">
+        <h3>🎯 My GFG Adventure</h3>
+        <p><strong>🔥 Current Streak:</strong></p>
+        <h2 style="color: #0F9D58;">365 Days Strong! 💪</h2>
+        
+        <p><strong>🏆 Epic Achievements:</strong></p>
+        <p>✅ <strong>400+</strong> Problems Conquered</p>
+        <p>⭐ <strong>1K+</strong> Coding Score</p>
+        <p>🏅 <strong>1798</strong> Contest Rating</p>
+        
+        <a href="https://auth.geeksforgeeks.org/user/coder_nia24/practice" target="_blank">
+          <img src="https://img.shields.io/badge/Explore_My_GFG_Journey-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile"/>
+        </a>
+        
+        <p><em>🚀 "From zero to hero, one problem at a time!" 💫</em></p>
+      </td>
+    </tr>
+  </table>
   
-  <div>
-    <img src="https://img.shields.io/badge/LeetCode_Auto_Commit-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Auto Commit"/>
-    <img src="https://img.shields.io/badge/GeeksforGeeks_Auto_Commit-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Auto Commit"/>
-  </div>
+  <!-- Auto-updating GFG streak badge -->
+  <img src="https://ghchart.rshah.org/0F9D58/coder_nia24" alt="GFG Contribution Graph" />
   
-  <p><i>These extensions automatically commit my daily coding progress to maintain consistent streaks! 🚀</i></p>
+  <p><strong>🤖 Auto-Update Magic:</strong> <em>My GFG streak updates automatically daily!</em></p>
+</div>
+
+### 🚀 LeetCode Adventure 💪
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
+        <h3>⚡ My LeetCode Quest</h3>
+        <p><strong>🔥 Current Streak:</strong></p>
+        <h2 style="color: #FFA116;">100+ Days & Growing! 🎉</h2>
+        
+        <p><strong>💡 Challenge Accepted:</strong></p>
+        <p>🧩 Daily Problem Solving</p>
+        <p>🏃‍♀️ Algorithm Marathons</p>
+        <p>🎯 Data Structure Mastery</p>
+        
+        <a href="https://leetcode.com/u/kohlineha352/" target="_blank">
+          <img src="https://img.shields.io/badge/Follow_My_LeetCode_Journey-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+        </a>
+        
+        <p><em>💭 "Every bug is just an undiscovered feature!" 🐛✨</em></p>
+      </td>
+    </tr>
+  </table>
+  
+  <!-- Auto-updating LeetCode stats -->
+  <img src="https://leetcard.jacoblin.cool/kohlineha352?theme=unicorn&font=Karma&ext=contest" alt="LeetCode Stats" />
+  
+  <p><strong>🔄 Smart Automation:</strong> <em>My LeetCode progress syncs automatically!</em></p>
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 📊 GitHub Stats
+## 🔧 My Secret Coding Arsenal 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+  <h3>🤖 Automated Streak & Commit Extensions</h3>
+  <p><em>"Work smarter, not harder!" - My daily coding philosophy ✨</em></p>
+  
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/LeetCode_Auto_Sync-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Auto Commit"/>
+        <br><br>
+        <p><strong>🚀 LeetCode Auto-Committer</strong></p>
+        <p><em>Automatically commits my daily LeetCode solutions to GitHub!</em></p>
+        <p>💡 Never miss a day of coding progress</p>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/GFG_Streak_Keeper-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Auto Commit"/>
+        <br><br>
+        <p><strong>🎯 GFG Streak Guardian</strong></p>
+        <p><em>Maintains my GeeksforGeeks daily problem streak!</em></p>
+        <p>⚡ Consistency on autopilot</p>
+      </td>
+    </tr>
+  </table>
+  
+  <p><strong>🔄 How it works:</strong></p>
+  <p><em>These extensions automatically track my daily coding activities and commit them to my GitHub, ensuring my contribution graph stays green and my streaks remain unbroken! 🌿💚</em></p>
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
+## 💝 A Sweet Note for Fellow Developers
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-    Thanks for visiting! Let's connect and build amazing things together! 
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-  </h2>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="80">
+        <h2>💫 Hey there, amazing developer! 💫</h2>
+        
+        <p><em>"In a world full of algorithms, be the human touch that makes technology meaningful!" 🌟</em></p>
+        
+        <h3>🤝 Let's Connect & Create Magic Together!</h3>
+        
+        <p>🌈 <strong>Whether you're:</strong></p>
+        <p>🚀 A fellow code enthusiast</p>
+        <p>💡 Someone with a crazy project idea</p>
+        <p>🤖 An AI/ML explorer like me</p>
+        <p>🌟 Just want to chat about tech</p>
+        
+        <h3>💬 I'm always here for:</h3>
+        <p>☕ Virtual coffee chats about coding</p>
+        <p>🧠 Brainstorming innovative solutions</p>
+        <p>🤝 Open source collaborations</p>
+        <p>📚 Knowledge sharing sessions</p>
+        
+        <br>
+        
+        <h2>🎯 Let's build the future, one line of code at a time! ✨</h2>
+        
+        <p><em>Remember: Every expert was once a beginner, and every pro was once an amateur. Keep coding, keep growing! 🌱💚</em></p>
+        
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
+
+<div align="center">
+  <p><em>✨ "Code with passion, debug with patience, and ship with pride!" ✨</em></p>
+  <p><strong>Happy Coding! 🚀💻</strong></p>
 </div>
